@@ -46,7 +46,6 @@ public class CrapsGame
 		else
 		{
 			result = 0;
-			point = total;
 		}
 	}
 	return result;
